@@ -1,0 +1,28 @@
+body{
+    background-image: url(../img/fundo.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.container{
+    width: 500px;
+    height: 400px;
+    margin: auto;
+    background-color: #f0ffff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+input {
+    margin: 10px;
+    text-align: center;
+   
+}
+
+.btt{
+    margin: 20px;
+    padding-bottom: 30px;
+}
